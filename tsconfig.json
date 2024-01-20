@@ -49,7 +49,6 @@
     //   "tests"
     // ],
     "typeRoots": [
-      "src/typings",
       "./node_modules/@types"
     ], /* List of folders to include type definitions from. */
     // "types": [],                           /* Type declaration files to be included in compilation. */
