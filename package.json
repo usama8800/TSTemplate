@@ -9,13 +9,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.11.5",
-    "@typescript-eslint/eslint-plugin": "^6.19.0",
-    "@typescript-eslint/parser": "^6.19.0",
+    "@types/node": "^20.14.9",
+    "@typescript-eslint/eslint-plugin": "^7.15.0",
+    "@typescript-eslint/parser": "^7.15.0",
     "@usama8800/dotenvplus": "^1.4.0",
     "eslint": "^8.56.0",
-    "nodemon": "^3.0.3",
-    "tsx": "^4.7.0",
-    "typescript": "^5.3.3"
+    "eslint-plugin-disable-autofix": "^5.0.1",
+    "nodemon": "^3.1.4",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
   }
 }
